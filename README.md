@@ -17,7 +17,7 @@ Otwórz w przeglądarce http://127.0.0.1:5000 i zaloguj się jako `alice` / `ali
 
 ## Zadania
 
-Przygotowaliśmy trzy scenariusze testowe, bezpośrednio nawiązujące do przypadków z wykładu. Szczegółowe polecenia znajdziesz w [zadania.md](zadania.md).
+Przygotowaliśmy trzy scenariusze testowe, bezpośrednio nawiązujące do przypadków z prezentacji. Szczegółowe polecenia znajdziesz w [zadania.md](zadania.md).
 
 1. **Zadanie 1: Faktury** - Zobaczysz, jak zmiana jednej liczby w adresie pozwala wejść w cudze dane.
 2. **Zadanie 2: Panel administratora** - Sprawdzisz, dlaczego ukrycie przycisku nie chroni strony, do której można wejść wprost.
